@@ -40,7 +40,7 @@ The objective of this project is to create a **Chatbot Assistant** capable of ge
 
 ## How to Use the Google Colab Version
 
-1. Open the file: `Kalash_Gaur_GenAI_Chatbot.ipynb`  
+1. Open the file: `Kalash_Gaur_GenAI_Chatbot.ipynb`  or open the link `https://colab.research.google.com/drive/1oC9ew8hi1_bmI6Bf8oATqkPPi5Q946kW`
 2. Run all the code cells sequentially  
 3. Begin chatting by entering your text in the final cell's input prompt
 
