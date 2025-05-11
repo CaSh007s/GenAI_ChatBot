@@ -38,10 +38,22 @@ The objective of this project is to create a **Chatbot Assistant** capable of ge
 
 ---
 
-## How to Use the Google Colab Version
+## Getting Started with GenAI Chatbot
 
-1. Open the file: `Kalash_Gaur_GenAI_Chatbot.ipynb`  or open the link `https://colab.research.google.com/drive/1oC9ew8hi1_bmI6Bf8oATqkPPi5Q946kW`
-2. Run all the code cells sequentially  
-3. Begin chatting by entering your text in the final cell's input prompt
+Follow these steps to run and interact with the GenAI Chatbot:
+
+1. **Open the Notebook**  
+   Click to open in Google Colab: [Kalash_Gaur_GenAI_Chatbot.ipynb](https://colab.research.google.com/drive/1oC9ew8hi1_bmI6Bf8oATqkPPi5Q946kW)
+
+2. **Run the Code Cells**  
+   Execute all code cells **sequentially** from top to bottom to initialize the chatbot.
+
+3. **Start Chatting**  
+   Scroll to the final cell and type your input in the provided prompt to begin the conversation.
+
+---
+
+✅ **Tip:** Make sure you're signed in to your Google account before opening the notebook in Colab for full access.
+
 
 ---
